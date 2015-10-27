@@ -1,0 +1,5 @@
+<?
+
+... statement yang dimuat
+
+?>
